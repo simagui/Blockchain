@@ -1,7 +1,7 @@
 package main
 
 import (
-	"btc-go/04-btc-go/lib/bolt"
+	"lib/bolt"
 	"fmt"
 )
 
